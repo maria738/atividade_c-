@@ -1,0 +1,15 @@
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\bin\Debug\net8.0\exercicios2.exe
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\bin\Debug\net8.0\exercicios2.deps.json
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\bin\Debug\net8.0\exercicios2.runtimeconfig.json
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\bin\Debug\net8.0\exercicios2.dll
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\bin\Debug\net8.0\exercicios2.pdb
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\exercicios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\exercicios2.AssemblyInfoInputs.cache
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\exercicios2.AssemblyInfo.cs
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\exercicios2.csproj.CoreCompileInputs.cache
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\exercicios2.sourcelink.json
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\exercicios2.dll
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\refint\exercicios2.dll
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\exercicios2.pdb
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\exercicios2.genruntimeconfig.cache
+C:\Users\MARIAVITORIAMACHADOD\Documents\atividade_c-\exercicios2\obj\Debug\net8.0\ref\exercicios2.dll
